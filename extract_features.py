@@ -4,7 +4,7 @@ import re
 import whois
 
 # API key (replace with your actual key)
-API_KEY = '90f7f4506ca48c67d4e15ca7c772b51f47723636c432a6e483a990b40df8d5a3a38c125eb6a2c3ee'
+API_KEY = 'YOUR_API_KEY'
 API_URL = 'https://ipqualityscore.com/api/json/ip/'
 
 def get_ip_info(domain):
