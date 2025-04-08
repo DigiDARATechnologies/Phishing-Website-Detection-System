@@ -182,8 +182,3 @@ _No formal license is applied, but consider it open for non-commercial, educatio
 
 ---
 
-
-## Contact
-
-For questions or support, contact **[your-email@example.com]**  
-or open an issue on the [GitHub repository](https://github.com/yourusername/phishing-detection).
