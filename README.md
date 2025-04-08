@@ -174,11 +174,3 @@ phishing-detection/
 _Suggestions: Add new features, improve UI, or enhance model accuracy._
 
 ---
-
-## License
-
-This project is for educational purposes only. Use it responsibly in controlled environments with permission.  
-_No formal license is applied, but consider it open for non-commercial, educational use._
-
----
-
